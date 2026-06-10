@@ -27,7 +27,7 @@ Key hardware components:
 - Programming/debugging interfaces
 
 The PCB was optimized for compact size, clean routing, and reliable signal integrity.
-
+Schematic_Micromouse_2026-05-20 (1).pdf
 ---
 
 ## PCB Fabrication & Assembly
