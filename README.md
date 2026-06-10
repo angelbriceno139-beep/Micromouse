@@ -41,7 +41,7 @@ Responsibilities:
 - Hardware debugging and continuity testing
 
 ---
-(https://github.com/angelbriceno139-beep/Micromouse/blob/470a5e7e2a661e320f7d74966d9c10d3132c24f6/Schematic_Micromouse_2026-05-20%20(1).pdf)
+![image alt](https://github.com/angelbriceno139-beep/Micromouse/blob/470a5e7e2a661e320f7d74966d9c10d3132c24f6/Schematic_Micromouse_2026-05-20%20(1).pdf)
 ## Firmware Development (In Progress)
 Firmware is currently being developed and tested using embedded C/C++.
 
